@@ -5245,8 +5245,8 @@ main > section.reveal-section {
         translate3d(0, 30px, 0);
 
     transition:
-        opacity 0.8s ease,
-        transform 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+        opacity 1.2s ease,
+        transform 1.35s cubic-bezier(0.22, 1, 0.36, 1);
 
     will-change:
         opacity,
@@ -5275,8 +5275,8 @@ main > section.reveal-section.is-visible {
         translate3d(0, 24px, 0);
 
     transition:
-        opacity 0.7s ease,
-        transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+        opacity 1.05s ease,
+        transform 1.2s cubic-bezier(0.22, 1, 0.36, 1);
 
     will-change:
         opacity,
@@ -5302,7 +5302,7 @@ main > section.reveal-section.is-visible {
 .reveal-title {
 
     transition-delay:
-        0.05s;
+        0.075s;
 }
 
 
@@ -5313,7 +5313,7 @@ main > section.reveal-section.is-visible {
 .reveal-text {
 
     transition-delay:
-        0.18s;
+        0.27s;
 }
 
 
@@ -5324,7 +5324,7 @@ main > section.reveal-section.is-visible {
 .reveal-card {
 
     transition-delay:
-        0.25s;
+        0.375s;
 }
 
 
@@ -5343,11 +5343,11 @@ main > section.reveal-section.is-visible {
         scale(0.97);
 
     transition:
-        opacity 0.8s ease,
-        transform 0.95s cubic-bezier(0.22, 1, 0.36, 1);
+        opacity 1.2s ease,
+        transform 1.425s cubic-bezier(0.22, 1, 0.36, 1);
 
     transition-delay:
-        0.16s;
+        0.24s;
 
     will-change:
         opacity,
@@ -5372,7 +5372,7 @@ main > section.reveal-section.is-visible {
 .reveal-flow {
 
     transition-delay:
-        0.28s;
+        0.42s;
 }
 
 
@@ -5383,7 +5383,7 @@ main > section.reveal-section.is-visible {
 .reveal-chart {
 
     transition-delay:
-        0.32s;
+        0.48s;
 }
 
 
@@ -5396,21 +5396,21 @@ main > section.reveal-section.is-visible {
 .ai-scene .boss-message:nth-of-type(1) {
 
     transition-delay:
-        0.25s;
+        0.375s;
 }
 
 
 .ai-scene .ai-message {
 
     transition-delay:
-        0.48s;
+        0.72s;
 }
 
 
 .ai-scene .second-question {
 
     transition-delay:
-        0.75s;
+        1.125s;
 }
 
 
@@ -5419,23 +5419,23 @@ main > section.reveal-section.is-visible {
    ========================================================= */
 
 .transition-scene .system-card:nth-child(1) {
-    transition-delay: 0.30s;
+    transition-delay: 0.45s;
 }
 
 .transition-scene .system-card:nth-child(2) {
-    transition-delay: 0.38s;
+    transition-delay: 0.57s;
 }
 
 .transition-scene .system-card:nth-child(3) {
-    transition-delay: 0.46s;
+    transition-delay: 0.69s;
 }
 
 .transition-scene .system-card:nth-child(4) {
-    transition-delay: 0.54s;
+    transition-delay: 0.81s;
 }
 
 .transition-scene .system-card:nth-child(5) {
-    transition-delay: 0.62s;
+    transition-delay: 0.93s;
 }
 
 
@@ -5446,30 +5446,30 @@ main > section.reveal-section.is-visible {
    ========================================================= */
 
 .operation-scene .operation-step:nth-child(1) {
-    transition-delay: 0.22s;
+    transition-delay: 0.33s;
 }
 
 .operation-scene .operation-step:nth-child(2) {
-    transition-delay: 0.38s;
+    transition-delay: 0.57s;
 }
 
 .operation-scene .operation-step:nth-child(3) {
-    transition-delay: 0.54s;
+    transition-delay: 0.81s;
 }
 
 .operation-scene .operation-step:nth-child(4) {
-    transition-delay: 0.70s;
+    transition-delay: 1.05s;
 }
 
 .operation-scene .operation-step:nth-child(5) {
-    transition-delay: 0.86s;
+    transition-delay: 1.29s;
 }
 
 
 .operation-scene .operation-statement {
 
     transition-delay:
-        1.05s;
+        1.575s;
 }
 
 
@@ -5482,35 +5482,35 @@ main > section.reveal-section.is-visible {
 .day-scene .day-block:nth-of-type(1) {
 
     transition-delay:
-        0.25s;
+        0.375s;
 }
 
 
 .day-scene .day-block:nth-of-type(2) {
 
     transition-delay:
-        0.45s;
+        0.675s;
 }
 
 
 .day-scene .decision-block {
 
     transition-delay:
-        0.65s;
+        0.975s;
 }
 
 
 .day-scene .day-block:nth-of-type(4) {
 
     transition-delay:
-        0.85s;
+        1.275s;
 }
 
 
 .day-scene .day-closing {
 
     transition-delay:
-        1.05s;
+        1.575s;
 }
 
 
@@ -5523,40 +5523,40 @@ main > section.reveal-section.is-visible {
 .dashboard-scene .executive-dashboard {
 
     transition-delay:
-        0.25s;
+        0.375s;
 }
 
 
 .dashboard-scene .metric-card:nth-child(1) {
-    transition-delay: 0.42s;
+    transition-delay: 0.63s;
 }
 
 .dashboard-scene .metric-card:nth-child(2) {
-    transition-delay: 0.50s;
+    transition-delay: 0.75s;
 }
 
 .dashboard-scene .metric-card:nth-child(3) {
-    transition-delay: 0.58s;
+    transition-delay: 0.87s;
 }
 
 .dashboard-scene .metric-card:nth-child(4) {
-    transition-delay: 0.66s;
+    transition-delay: 0.99s;
 }
 
 
 .dashboard-scene .dashboard-panel:nth-child(1) {
-    transition-delay: 0.76s;
+    transition-delay: 1.14s;
 }
 
 .dashboard-scene .dashboard-panel:nth-child(2) {
-    transition-delay: 0.88s;
+    transition-delay: 1.32s;
 }
 
 
 .dashboard-scene .dashboard-statement {
 
     transition-delay:
-        1.02s;
+        1.53s;
 }
 
 
@@ -5567,42 +5567,42 @@ main > section.reveal-section.is-visible {
 .interactive-scene .question-demo:nth-of-type(1) {
 
     transition-delay:
-        0.25s;
+        0.375s;
 }
 
 
 .interactive-scene .discount-answer {
 
     transition-delay:
-        0.42s;
+        0.63s;
 }
 
 
 .interactive-scene .second-demo {
 
     transition-delay:
-        0.72s;
+        1.08s;
 }
 
 
 .interactive-scene .comparison-card {
 
     transition-delay:
-        0.88s;
+        1.32s;
 }
 
 
 .interactive-scene .save-dashboard {
 
     transition-delay:
-        1.05s;
+        1.575s;
 }
 
 
 .interactive-scene .interactive-closing {
 
     transition-delay:
-        1.18s;
+        1.77s;
 }
 
 
@@ -5613,43 +5613,43 @@ main > section.reveal-section.is-visible {
    ========================================================= */
 
 .history-scene .history-item:nth-child(1) {
-    transition-delay: 0.25s;
+    transition-delay: 0.375s;
 }
 
 .history-scene .history-item:nth-child(2) {
-    transition-delay: 0.42s;
+    transition-delay: 0.63s;
 }
 
 .history-scene .history-item:nth-child(3) {
-    transition-delay: 0.59s;
+    transition-delay: 0.885s;
 }
 
 
 .history-scene .history-question {
 
     transition-delay:
-        0.78s;
+        1.17s;
 }
 
 
 .history-scene .history-answer {
 
     transition-delay:
-        0.94s;
+        1.41s;
 }
 
 
 .history-scene .meeting-block {
 
     transition-delay:
-        1.08s;
+        1.62s;
 }
 
 
 .history-scene .history-closing {
 
     transition-delay:
-        1.22s;
+        1.83s;
 }
 
 
@@ -5660,84 +5660,84 @@ main > section.reveal-section.is-visible {
 .screen-10 .screen-10-phone-wrap {
 
     transition-delay:
-        0.25s;
+        0.375s;
 }
 
 
 .screen-10 .screen-10-simple {
 
     transition-delay:
-        0.46s;
+        0.69s;
 }
 
 
 .screen-10 .screen-10-key {
 
     transition-delay:
-        0.62s;
+        0.93s;
 }
 
 
 .screen-10 .screen-10-anywhere {
 
     transition-delay:
-        0.78s;
+        1.17s;
 }
 
 
 .screen-10 .screen-10-team {
 
     transition-delay:
-        0.90s;
+        1.35s;
 }
 
 
 .screen-10 .screen-10-transition {
 
     transition-delay:
-        1.05s;
+        1.575s;
 }
 
 
 .screen-10 .screen-10-final {
 
     transition-delay:
-        1.18s;
+        1.77s;
 }
 
 
 .screen-10 .screen-10-system {
 
     transition-delay:
-        1.32s;
+        1.98s;
 }
 
 
 .screen-10 .screen-10-purpose {
 
     transition-delay:
-        1.46s;
+        2.19s;
 }
 
 
 .screen-10 .screen-10-pilot {
 
     transition-delay:
-        1.60s;
+        2.4s;
 }
 
 
 .screen-10 .screen-10-investment {
 
     transition-delay:
-        1.74s;
+        2.61s;
 }
 
 
 .screen-10 .screen-10-closing {
 
     transition-delay:
-        1.90s;
+        2.85s;
 }
 
 
@@ -5746,19 +5746,19 @@ main > section.reveal-section.is-visible {
    ========================================================= */
 
 .screen-10 .screen-10-simple-item:nth-child(1) {
-    transition-delay: 0.55s;
+    transition-delay: 0.825s;
 }
 
 .screen-10 .screen-10-simple-item:nth-child(3) {
-    transition-delay: 0.68s;
+    transition-delay: 1.02s;
 }
 
 .screen-10 .screen-10-simple-item:nth-child(5) {
-    transition-delay: 0.81s;
+    transition-delay: 1.215s;
 }
 
 .screen-10 .screen-10-simple-item:nth-child(7) {
-    transition-delay: 0.94s;
+    transition-delay: 1.41s;
 }
 
 
@@ -5776,7 +5776,7 @@ main > section.reveal-section.is-visible {
             translateY(-3px);
 
         transition:
-            transform 0.25s ease;
+            transform 0.375s ease;
     }
 
 }
@@ -5794,7 +5794,7 @@ main > section.reveal-section.is-visible {
             translate3d(0, 22px, 0);
 
         transition-duration:
-            0.7s;
+            1.05s;
     }
 
 
@@ -5804,7 +5804,7 @@ main > section.reveal-section.is-visible {
             translate3d(0, 16px, 0);
 
         transition-duration:
-            0.6s;
+            0.9s;
     }
 
 
@@ -5831,15 +5831,15 @@ main > section.reveal-section.is-visible {
    --------------------------------------------------------- */
 
 .ai-scene .boss-message:nth-of-type(1) {
-    transition-delay: 0.45s;
+    transition-delay: 0.675s;
 }
 
 .ai-scene .ai-message {
-    transition-delay: 0.95s;
+    transition-delay: 1.425s;
 }
 
 .ai-scene .second-question {
-    transition-delay: 1.55s;
+    transition-delay: 2.325s;
 }
 
 
@@ -5848,31 +5848,31 @@ main > section.reveal-section.is-visible {
    --------------------------------------------------------- */
 
 .transition-scene .system-card:nth-child(1) {
-    transition-delay: 0.55s;
+    transition-delay: 0.825s;
 }
 
 .transition-scene .system-card:nth-child(2) {
-    transition-delay: 0.75s;
+    transition-delay: 1.125s;
 }
 
 .transition-scene .system-card:nth-child(3) {
-    transition-delay: 0.95s;
+    transition-delay: 1.425s;
 }
 
 .transition-scene .system-card:nth-child(4) {
-    transition-delay: 1.15s;
+    transition-delay: 1.725s;
 }
 
 .transition-scene .system-card:nth-child(5) {
-    transition-delay: 1.35s;
+    transition-delay: 2.025s;
 }
 
 .transition-scene .transition-title {
-    transition-delay: 1.55s;
+    transition-delay: 2.325s;
 }
 
 .transition-scene .transition-description {
-    transition-delay: 1.85s;
+    transition-delay: 2.775s;
 }
 
 
@@ -5881,27 +5881,27 @@ main > section.reveal-section.is-visible {
    --------------------------------------------------------- */
 
 .operation-scene .operation-step:nth-child(1) {
-    transition-delay: 0.45s;
+    transition-delay: 0.675s;
 }
 
 .operation-scene .operation-step:nth-child(2) {
-    transition-delay: 0.80s;
+    transition-delay: 1.2s;
 }
 
 .operation-scene .operation-step:nth-child(3) {
-    transition-delay: 1.15s;
+    transition-delay: 1.725s;
 }
 
 .operation-scene .operation-step:nth-child(4) {
-    transition-delay: 1.50s;
+    transition-delay: 2.25s;
 }
 
 .operation-scene .operation-step:nth-child(5) {
-    transition-delay: 1.85s;
+    transition-delay: 2.775s;
 }
 
 .operation-scene .operation-statement {
-    transition-delay: 2.25s;
+    transition-delay: 3.375s;
 }
 
 
@@ -5910,23 +5910,23 @@ main > section.reveal-section.is-visible {
    --------------------------------------------------------- */
 
 .day-scene .day-block:nth-of-type(1) {
-    transition-delay: 0.45s;
+    transition-delay: 0.675s;
 }
 
 .day-scene .day-block:nth-of-type(2) {
-    transition-delay: 0.85s;
+    transition-delay: 1.275s;
 }
 
 .day-scene .decision-block {
-    transition-delay: 1.25s;
+    transition-delay: 1.875s;
 }
 
 .day-scene .day-block:nth-of-type(4) {
-    transition-delay: 1.65s;
+    transition-delay: 2.475s;
 }
 
 .day-scene .day-closing {
-    transition-delay: 2.10s;
+    transition-delay: 3.15s;
 }
 
 
@@ -5935,35 +5935,35 @@ main > section.reveal-section.is-visible {
    --------------------------------------------------------- */
 
 .dashboard-scene .executive-dashboard {
-    transition-delay: 0.45s;
+    transition-delay: 0.675s;
 }
 
 .dashboard-scene .metric-card:nth-child(1) {
-    transition-delay: 0.75s;
+    transition-delay: 1.125s;
 }
 
 .dashboard-scene .metric-card:nth-child(2) {
-    transition-delay: 0.90s;
+    transition-delay: 1.35s;
 }
 
 .dashboard-scene .metric-card:nth-child(3) {
-    transition-delay: 1.05s;
+    transition-delay: 1.575s;
 }
 
 .dashboard-scene .metric-card:nth-child(4) {
-    transition-delay: 1.20s;
+    transition-delay: 1.8s;
 }
 
 .dashboard-scene .dashboard-panel:nth-child(1) {
-    transition-delay: 1.45s;
+    transition-delay: 2.175s;
 }
 
 .dashboard-scene .dashboard-panel:nth-child(2) {
-    transition-delay: 1.65s;
+    transition-delay: 2.475s;
 }
 
 .dashboard-scene .dashboard-statement {
-    transition-delay: 2.00s;
+    transition-delay: 3s;
 }
 
 
@@ -5972,27 +5972,27 @@ main > section.reveal-section.is-visible {
    --------------------------------------------------------- */
 
 .interactive-scene .question-demo:nth-of-type(1) {
-    transition-delay: 0.45s;
+    transition-delay: 0.675s;
 }
 
 .interactive-scene .discount-answer {
-    transition-delay: 1.00s;
+    transition-delay: 1.5s;
 }
 
 .interactive-scene .second-demo {
-    transition-delay: 1.55s;
+    transition-delay: 2.325s;
 }
 
 .interactive-scene .comparison-card {
-    transition-delay: 2.00s;
+    transition-delay: 3s;
 }
 
 .interactive-scene .save-dashboard {
-    transition-delay: 2.35s;
+    transition-delay: 3.525s;
 }
 
 .interactive-scene .interactive-closing {
-    transition-delay: 2.70s;
+    transition-delay: 4.05s;
 }
 
 
@@ -6001,31 +6001,31 @@ main > section.reveal-section.is-visible {
    --------------------------------------------------------- */
 
 .history-scene .history-item:nth-child(1) {
-    transition-delay: 0.45s;
+    transition-delay: 0.675s;
 }
 
 .history-scene .history-item:nth-child(2) {
-    transition-delay: 0.75s;
+    transition-delay: 1.125s;
 }
 
 .history-scene .history-item:nth-child(3) {
-    transition-delay: 1.05s;
+    transition-delay: 1.575s;
 }
 
 .history-scene .history-question {
-    transition-delay: 1.45s;
+    transition-delay: 2.175s;
 }
 
 .history-scene .history-answer {
-    transition-delay: 1.90s;
+    transition-delay: 2.85s;
 }
 
 .history-scene .meeting-block {
-    transition-delay: 2.30s;
+    transition-delay: 3.45s;
 }
 
 .history-scene .history-closing {
-    transition-delay: 2.70s;
+    transition-delay: 4.05s;
 }
 
 
@@ -6034,51 +6034,51 @@ main > section.reveal-section.is-visible {
    --------------------------------------------------------- */
 
 .screen-10 .screen-10-phone-wrap {
-    transition-delay: 0.45s;
+    transition-delay: 0.675s;
 }
 
 .screen-10 .screen-10-simple {
-    transition-delay: 0.90s;
-}
-
-.screen-10 .screen-10-key {
     transition-delay: 1.35s;
 }
 
+.screen-10 .screen-10-key {
+    transition-delay: 2.025s;
+}
+
 .screen-10 .screen-10-anywhere {
-    transition-delay: 1.75s;
+    transition-delay: 2.625s;
 }
 
 .screen-10 .screen-10-team {
-    transition-delay: 2.15s;
+    transition-delay: 3.225s;
 }
 
 .screen-10 .screen-10-transition {
-    transition-delay: 2.55s;
+    transition-delay: 3.825s;
 }
 
 .screen-10 .screen-10-final {
-    transition-delay: 2.95s;
+    transition-delay: 4.425s;
 }
 
 .screen-10 .screen-10-system {
-    transition-delay: 3.35s;
+    transition-delay: 5.025s;
 }
 
 .screen-10 .screen-10-purpose {
-    transition-delay: 3.75s;
+    transition-delay: 5.625s;
 }
 
 .screen-10 .screen-10-pilot {
-    transition-delay: 4.15s;
+    transition-delay: 6.225s;
 }
 
 .screen-10 .screen-10-investment {
-    transition-delay: 4.55s;
+    transition-delay: 6.825s;
 }
 
 .screen-10 .screen-10-closing {
-    transition-delay: 5.00s;
+    transition-delay: 7.5s;
 }
 /* =========================================================
    MÀN 9 — GIÁ TRỊ TRỰC TIẾP CHO SẾP
@@ -6489,7 +6489,7 @@ main > section.reveal-section.is-visible {
    --------------------------------------------------------- */
 
 .executive-value-scene .executive-value-intro {
-    transition-delay: 0.35s;
+    transition-delay: 0.525s;
 }
 
 
@@ -6498,19 +6498,19 @@ main > section.reveal-section.is-visible {
    --------------------------------------------------------- */
 
 .executive-value-scene .value-case:nth-child(1) {
-    transition-delay: 0.65s;
+    transition-delay: 0.975s;
 }
 
 .executive-value-scene .value-case:nth-child(2) {
-    transition-delay: 0.95s;
+    transition-delay: 1.425s;
 }
 
 .executive-value-scene .value-case:nth-child(3) {
-    transition-delay: 1.25s;
+    transition-delay: 1.875s;
 }
 
 .executive-value-scene .value-case:nth-child(4) {
-    transition-delay: 1.55s;
+    transition-delay: 2.325s;
 }
 
 
@@ -6519,7 +6519,7 @@ main > section.reveal-section.is-visible {
    --------------------------------------------------------- */
 
 .executive-value-scene .executive-value-core {
-    transition-delay: 1.95s;
+    transition-delay: 2.925s;
 }
 
 
@@ -6528,7 +6528,7 @@ main > section.reveal-section.is-visible {
    --------------------------------------------------------- */
 
 .executive-value-scene .executive-value-flow {
-    transition-delay: 2.35s;
+    transition-delay: 3.525s;
 }
 
 
@@ -6537,7 +6537,7 @@ main > section.reveal-section.is-visible {
    --------------------------------------------------------- */
 
 .executive-value-scene .executive-value-anywhere {
-    transition-delay: 2.85s;
+    transition-delay: 4.275s;
 }
 
 
@@ -6546,7 +6546,7 @@ main > section.reveal-section.is-visible {
    --------------------------------------------------------- */
 
 .executive-value-scene .executive-value-summary {
-    transition-delay: 3.30s;
+    transition-delay: 4.95s;
 }
 
 
@@ -6555,7 +6555,7 @@ main > section.reveal-section.is-visible {
    --------------------------------------------------------- */
 
 .executive-value-scene .executive-value-distance {
-    transition-delay: 3.70s;
+    transition-delay: 5.55s;
 }
 
 
@@ -6564,7 +6564,7 @@ main > section.reveal-section.is-visible {
    --------------------------------------------------------- */
 
 .executive-value-scene .executive-value-closing {
-    transition-delay: 4.15s;
+    transition-delay: 6.225s;
 }
 /* =========================================================
    MÀN 9 — SCROLL-DRIVEN STORY
@@ -6574,8 +6574,8 @@ main > section.reveal-section.is-visible {
     opacity: 0;
     transform: translate3d(0, 32px, 0);
     transition:
-        opacity 0.8s ease,
-        transform 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+        opacity 1.2s ease,
+        transform 1.35s cubic-bezier(0.22, 1, 0.36, 1);
 }
 
 .executive-value-scene .reveal-ready.story-visible {
@@ -6602,7 +6602,7 @@ main > section.reveal-section.is-visible {
 
     .executive-value-scene .reveal-ready {
         transform: translate3d(0, 20px, 0);
-        transition-duration: 0.65s;
+        transition-duration: 0.975s;
     }
 
 }
@@ -6760,8 +6760,8 @@ main > section.reveal-section.is-visible {
     opacity: 0;
     transform: translate3d(0, 32px, 0);
     transition:
-        opacity 0.8s ease,
-        transform 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+        opacity 1.2s ease,
+        transform 1.35s cubic-bezier(0.22, 1, 0.36, 1);
 }
 
 .screen-10 .reveal-ready.story-visible {
@@ -6891,7 +6891,7 @@ main > section.reveal-section.is-visible {
 
     .screen-10 .reveal-ready {
         transform: translate3d(0, 20px, 0);
-        transition-duration: 0.65s;
+        transition-duration: 0.975s;
     }
 
 }
@@ -6922,8 +6922,8 @@ main > section.reveal-section.is-visible {
     opacity: 0;
     transform: translate3d(0, 32px, 0);
     transition:
-        opacity 0.8s ease,
-        transform 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+        opacity 1.2s ease,
+        transform 1.35s cubic-bezier(0.22, 1, 0.36, 1);
 }
 
 .screen-10 .screen-10-intro.story-visible {
@@ -6956,6 +6956,141 @@ main > section.reveal-section.is-visible {
 
     .screen-10.reveal-section.is-visible .reveal-ready {
         transform: translate3d(0, 20px, 0);
+    }
+
+}
+
+
+/* =========================================================
+   MÀN 9 & MÀN 10 — THU GỌN KHOẢNG CÁCH GIỮA CÁC KHỐI
+   ---------------------------------------------------------
+   Giảm min-height (vh) và margin-bottom để nhịp cuộn
+   gần với bố cục các màn phía trên.
+   ========================================================= */
+
+/* ---------- MÀN 9 ---------- */
+
+.executive-value-scene .executive-value-intro {
+    margin-bottom: 60px;
+}
+
+.executive-value-scene .executive-value-cases {
+    margin-bottom: 70px;
+}
+
+.executive-value-scene .executive-value-core {
+    min-height: 22vh;
+    margin-bottom: 70px;
+}
+
+.executive-value-scene .executive-value-flow {
+    min-height: 0;
+    margin-bottom: 70px;
+}
+
+.executive-value-scene .executive-value-anywhere {
+    min-height: 28vh;
+    margin-bottom: 70px;
+}
+
+.executive-value-scene .executive-value-summary {
+    min-height: 26vh;
+    margin-bottom: 60px;
+}
+
+.executive-value-scene .executive-value-distance {
+    min-height: 22vh;
+    margin-bottom: 70px;
+}
+
+.executive-value-scene .executive-value-closing {
+    min-height: 40vh;
+}
+
+/* ---------- MÀN 10 ---------- */
+
+.screen-10 .screen-10-intro {
+    margin-bottom: 50px;
+}
+
+.screen-10 .screen-10-phone-wrap {
+    min-height: 0;
+    margin-bottom: 60px;
+}
+
+.screen-10 .screen-10-simple,
+.screen-10 .screen-10-key,
+.screen-10 .screen-10-team,
+.screen-10 .screen-10-transition,
+.screen-10 .screen-10-final,
+.screen-10 .screen-10-purpose {
+    min-height: 24vh;
+    margin-bottom: 60px;
+}
+
+.screen-10 .screen-10-anywhere,
+.screen-10 .screen-10-system {
+    min-height: 28vh;
+    margin-bottom: 60px;
+}
+
+.screen-10 .screen-10-pilot,
+.screen-10 .screen-10-investment {
+    min-height: 30vh;
+    margin-bottom: 60px;
+}
+
+.screen-10 .screen-10-closing {
+    min-height: 50vh;
+    margin-bottom: 0;
+}
+
+/* ---------- MOBILE ---------- */
+
+@media (max-width: 768px) {
+
+    .executive-value-scene .executive-value-intro {
+        margin-bottom: 50px;
+    }
+
+    .executive-value-scene .executive-value-cases {
+        margin-bottom: 60px;
+    }
+
+    .executive-value-scene .executive-value-core,
+    .executive-value-scene .executive-value-anywhere,
+    .executive-value-scene .executive-value-summary,
+    .executive-value-scene .executive-value-distance {
+        min-height: 0;
+        margin-bottom: 60px;
+    }
+
+    .executive-value-scene .executive-value-flow {
+        min-height: 0;
+        margin-bottom: 60px;
+    }
+
+    .executive-value-scene .executive-value-closing {
+        min-height: 45vh;
+    }
+
+    .screen-10 .screen-10-phone-wrap,
+    .screen-10 .screen-10-simple,
+    .screen-10 .screen-10-key,
+    .screen-10 .screen-10-team,
+    .screen-10 .screen-10-transition,
+    .screen-10 .screen-10-final,
+    .screen-10 .screen-10-purpose,
+    .screen-10 .screen-10-anywhere,
+    .screen-10 .screen-10-system,
+    .screen-10 .screen-10-pilot,
+    .screen-10 .screen-10-investment {
+        min-height: 0;
+        margin-bottom: 50px;
+    }
+
+    .screen-10 .screen-10-closing {
+        min-height: 55vh;
     }
 
 }
